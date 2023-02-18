@@ -16,4 +16,4 @@ It can be accessed by the QR code below:
 
 Or using the link below:
 
-[websiteMenu](https://transcendent-griffin-dce2ec.netlify.app/)
+[websiteMenu](https://zesty-taffy-c72f66.netlify.app)
