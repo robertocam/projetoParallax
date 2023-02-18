@@ -16,4 +16,4 @@ It can be accessed by the QR code below:
 
 Or using the link below:
 
-[websiteMenu](https://zesty-taffy-c72f66.netlify.app)
+[projetoParallax](https://zesty-taffy-c72f66.netlify.app)
