@@ -12,7 +12,7 @@ See some images from the site below:
 
 It can be accessed by the QR code below:
 
-![](https://github.com/robertocam/websiteMenu/blob/main/images/qrCode.png)
+![](https://github.com/robertocam/projetoParallax/blob/main/images/qrCode.png)
 
 Or using the link below:
 
